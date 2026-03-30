@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monderix\\source\\repos\\ShoeStoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA1F5F7-8A3E-1C08-3C10-D5F44DE1C565}|ShoeStoreDemo\\ShoeStoreDemo.csproj|c:\\users\\monderix\\source\\repos\\shoestoredemo\\shoestoredemo\\formeditproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA1F5F7-8A3E-1C08-3C10-D5F44DE1C565}|ShoeStoreDemo\\ShoeStoreDemo.csproj|solutionrelative:shoestoredemo\\formeditproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA1F5F7-8A3E-1C08-3C10-D5F44DE1C565}|ShoeStoreDemo\\ShoeStoreDemo.csproj|c:\\users\\monderix\\source\\repos\\shoestoredemo\\shoestoredemo\\formeditproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DA1F5F7-8A3E-1C08-3C10-D5F44DE1C565}|ShoeStoreDemo\\ShoeStoreDemo.csproj|solutionrelative:shoestoredemo\\formeditproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA1F5F7-8A3E-1C08-3C10-D5F44DE1C565}|ShoeStoreDemo\\ShoeStoreDemo.csproj|c:\\users\\monderix\\source\\repos\\shoestoredemo\\shoestoredemo\\formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DA1F5F7-8A3E-1C08-3C10-D5F44DE1C565}|ShoeStoreDemo\\ShoeStoreDemo.csproj|solutionrelative:shoestoredemo\\formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA1F5F7-8A3E-1C08-3C10-D5F44DE1C565}|ShoeStoreDemo\\ShoeStoreDemo.csproj|c:\\users\\monderix\\source\\repos\\shoestoredemo\\shoestoredemo\\formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA1F5F7-8A3E-1C08-3C10-D5F44DE1C565}|ShoeStoreDemo\\ShoeStoreDemo.csproj|solutionrelative:shoestoredemo\\formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA1F5F7-8A3E-1C08-3C10-D5F44DE1C565}|ShoeStoreDemo\\ShoeStoreDemo.csproj|c:\\users\\monderix\\source\\repos\\shoestoredemo\\shoestoredemo\\formeditorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DA1F5F7-8A3E-1C08-3C10-D5F44DE1C565}|ShoeStoreDemo\\ShoeStoreDemo.csproj|solutionrelative:shoestoredemo\\formeditorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEditOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\monderix\\source\\repos\\ShoeStoreDemo\\ShoeStoreDemo\\FormEditOrder.cs",
+              "RelativeDocumentMoniker": "ShoeStoreDemo\\FormEditOrder.cs",
+              "ToolTip": "C:\\Users\\monderix\\source\\repos\\ShoeStoreDemo\\ShoeStoreDemo\\FormEditOrder.cs [Design]",
+              "RelativeToolTip": "ShoeStoreDemo\\FormEditOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:44:31.306Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormEditProduct.cs",
+              "DocumentMoniker": "C:\\Users\\monderix\\source\\repos\\ShoeStoreDemo\\ShoeStoreDemo\\FormEditProduct.cs",
+              "RelativeDocumentMoniker": "ShoeStoreDemo\\FormEditProduct.cs",
+              "ToolTip": "C:\\Users\\monderix\\source\\repos\\ShoeStoreDemo\\ShoeStoreDemo\\FormEditProduct.cs",
+              "RelativeToolTip": "ShoeStoreDemo\\FormEditProduct.cs",
+              "ViewState": "AgIAAHkBAAAAAAAAAAAAAI0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:44:12.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormEditProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\monderix\\source\\repos\\ShoeStoreDemo\\ShoeStoreDemo\\FormEditProduct.cs",
+              "RelativeDocumentMoniker": "ShoeStoreDemo\\FormEditProduct.cs",
+              "ToolTip": "C:\\Users\\monderix\\source\\repos\\ShoeStoreDemo\\ShoeStoreDemo\\FormEditProduct.cs [Design]",
+              "RelativeToolTip": "ShoeStoreDemo\\FormEditProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:44:04.889Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormOrders.cs",
+              "DocumentMoniker": "C:\\Users\\monderix\\source\\repos\\ShoeStoreDemo\\ShoeStoreDemo\\FormOrders.cs",
+              "RelativeDocumentMoniker": "ShoeStoreDemo\\FormOrders.cs",
+              "ToolTip": "C:\\Users\\monderix\\source\\repos\\ShoeStoreDemo\\ShoeStoreDemo\\FormOrders.cs",
+              "RelativeToolTip": "ShoeStoreDemo\\FormOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:33:07.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormOrders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\monderix\\source\\repos\\ShoeStoreDemo\\ShoeStoreDemo\\FormOrders.cs",
+              "RelativeDocumentMoniker": "ShoeStoreDemo\\FormOrders.cs",
+              "ToolTip": "C:\\Users\\monderix\\source\\repos\\ShoeStoreDemo\\ShoeStoreDemo\\FormOrders.cs [Design]",
+              "RelativeToolTip": "ShoeStoreDemo\\FormOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:33:02.009Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
